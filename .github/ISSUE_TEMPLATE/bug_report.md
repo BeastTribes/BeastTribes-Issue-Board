@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG]"
+title: "[BUG] "
 labels: ''
 assignees: ''
 type: Bug
@@ -9,22 +9,29 @@ type: Bug
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+*Please provide a clear and concise description of what the bug is below this line:*
+
 
 **To Reproduce**
-Steps to reproduce the behavior:
+*Steps to reproduce the behavior:*
 1. 
 
+
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+*Please describe what you expected to happen:*
+
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+*Add screenshots to help explain your problem (if applicable):*
 
-**System Information(please complete the following information):**
- - OS: [e.g. Windows 10, Bazzite etc]
- - Valheim Game Version [e.g. 0.221.12]
- - BeastTribes DLL Version [if known]
+
+**System Information (please complete this!):**
+ - Operating System: [e.g. Win 10 / 11 / Bazzite / CachyOS]: 
+ - Valheim Game Version [e.g. 0.221.12]: 
+ - BeastTribes Mod Version [e.g. 1.2.0]: 
+ - Mod download location [e.g. Nexus, BeastTribes Discord]:  
+
 
 **Additional context**
-Add any other context about the problem here. Please attach large logs using a pastebin-style service.
+*Add any other context about the problem here, such as game logs.*
+*Please attach large logs using a Pastebin-style service.*
